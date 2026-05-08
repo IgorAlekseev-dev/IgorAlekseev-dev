@@ -12,6 +12,8 @@
 
 > **Фокус:** Производительность, масштабируемость, чистая архитектура.
 
+<br/>
+
 <p align="left">
     <a href="https://t.me/Igor_Alexeew">
       <img src="assets/tg-button.svg" alt="Telegram" height="40px">
@@ -22,8 +24,6 @@
 </p>
 
 <br clear="both">
-
----
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" align="center" alt="Rocket" width="25px" height="25px" /> Мой стек и технологии:
 <br>
