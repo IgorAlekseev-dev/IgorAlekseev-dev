@@ -20,7 +20,7 @@
 <br/>
 
 <!-- Контакты -->
-<p align="center">
+<p>
   <a href="https://t.me/Igor_Alexeew"><img src="./assets/telegram-component.svg" width="130" height="44" /></a>
   <a href="mailto:work.alekseevigor@gmail.com"><img src="./assets/gmail-component.svg" width="110" height="44" /></a>
 </p>
